@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1015813841035",
+    "project_id": "chatappyt-46aa1",
+    "storage_bucket": "chatappyt-46aa1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015813841035:android:07a73afde6069ee4d8748e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABvvrzFQyG6eAH4IH0iBusZg8T4o-9PLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015813841035:android:79e40a57300e529fd8748e",
+        "android_client_info": {
+          "package_name": "com.example.chatappytnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABvvrzFQyG6eAH4IH0iBusZg8T4o-9PLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015813841035:android:a183ab02980b9cb9d8748e",
+        "android_client_info": {
+          "package_name": "com.k.m"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABvvrzFQyG6eAH4IH0iBusZg8T4o-9PLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
